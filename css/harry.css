@@ -1,0 +1,20 @@
+body {
+	
+}
+
+h1 { background: #ff00ff; 
+	font-family: arialx, courier;
+	
+}
+
+div { 
+	border: dashed thick blue; 
+	background: lightblue; 
+	
+}
+
+div#fred { background: yellow; }
+
+.flintstone { background: green; }
+
+ul > li { border: solid red thin; }
